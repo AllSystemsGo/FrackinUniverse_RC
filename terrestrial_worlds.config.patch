@@ -1903,7 +1903,7 @@
   "path" : "/regionTypes/chromatic",
   "value" : 
   {
-      "caveLiquid" : [  "water", "healingliquid", "alienjuice", "crystalliquid", "bioooze", "blacktar" ],
+      "caveLiquid" : [  "water", "healingliquid", "alienjuice", "crystalliquid", "bio_ooze", "blacktar" ],
       "blockSelector" : [ "remixedSurface", "remixedMildSurface","remixedMountainsSurface", "remixedMegaMountainsSurface" ],
       "fgCaveSelector" : [ "surfaceCaves" ],
       "bgOreSelector" : [ "commonVeins", "acidPoolCaves" ], 
